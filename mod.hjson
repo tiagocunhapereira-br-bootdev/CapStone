@@ -1,0 +1,6 @@
+name: "thorium-mixer-mod",
+displayName: "Thorium Mixer Mod",
+author: "Tiago",
+description: "A mod that adds the :thorium:Thorium Mixer and [purple]:cryofluid:[white]Radiofluid.",
+version: "1.0",
+minGameVersion: "158"
