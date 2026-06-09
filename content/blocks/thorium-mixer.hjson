@@ -1,9 +1,16 @@
 name: thorium-mixer
 type: GenericCrafter
 size: 3
-craftTime: 120
+craftTime: 240
+
+requirements: [
+  {item: lead, amount: 165}
+  {item: silicon, amount: 120}
+  {item: thorium, amount: 45}
+]
+
 consumes: {
-  power: 0.8
+  power: 2.5
   items: [
     {item: thorium, amount: 1}
   ]
@@ -11,7 +18,7 @@ consumes: {
     {liquid: water, amount: 0.1}
   ]
 }
-output: {
+outputs: {
   liquids: [
     {liquid: radiofluid, amount: 0.1}
   ]
