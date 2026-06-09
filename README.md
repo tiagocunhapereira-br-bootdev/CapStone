@@ -11,7 +11,7 @@ A mod that adds the Thorium Mixer and Radiofluid.
 
 To install the Thorium Mixer Mod, follow these steps:
 
-1.  Download the latest release from the [releases page](LINK_TO_RELEASES_PAGE).
+1.  Download the latest release from the [releases page](https://github.com/tiagocunhapereira-br-bootdev/CapStone/releases).
 2.  Place the downloaded `.zip` file into your Mindustry mods folder.
     -   **Windows:** `C:\Users\YOUR_USERNAME\AppData\Roaming\Mindustry\mods\`
     -   **Linux:** `~/.local/share/Mindustry/mods/`
@@ -24,7 +24,7 @@ This mod requires Mindustry version `158` or higher.
 
 ## Contributing
 
-Contributions are welcome! If you have suggestions, bug reports, or would like to contribute code, please check out the [GitHub repository](LINK_TO_GITHUB_REPO) and open an issue or pull request.
+Contributions are welcome! If you have suggestions, bug reports, or would like to contribute code, please check out the [GitHub repository](https://github.com/tiagocunhapereira-br-bootdev/CapStone/) and open an issue or pull request.
 
 ## License
 
