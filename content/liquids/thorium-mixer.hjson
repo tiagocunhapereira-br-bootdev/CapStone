@@ -1,0 +1,25 @@
+block: {
+  name: thorium-mixer
+  type: GenericCrafter
+  size: 3
+  craftTime: 120
+
+  consumes: {
+    power: 0.8
+    items: [
+      {item: thorium, amount: 1}
+    ]
+    liquids: [
+      {liquid: water, amount: 0.1}
+    ]
+  }
+
+  output: {
+    liquids: [
+      {liquid: radiofluid, amount: 0.1}
+    ]
+  }
+
+  category: crafting
+  research: cryofluid-mixer
+}
