@@ -1,10 +1,8 @@
-liquid: {
-  name: radiofluid
-  color: 9B30FF
-  barColor: 7B10DF
-  temperature: 0.5
-  viscosity: 0.6
-  flammability: 0.0
-  explosiveness: 0.0
-  radioactivity: 0.8
-}
+name: radiofluid
+color: 9B30FF
+barColor: 7B10DF
+temperature: 0.5
+viscosity: 0.6
+flammability: 0.0
+explosiveness: 0.0
+radioactivity: 0.8
