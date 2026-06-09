@@ -19,7 +19,7 @@ consumes: {
   ]
 }
 outputLiquids: [
-  {liquid: radiofluid, amount: 0.1}
+  {liquid: radiofluid, amount: 0.3}
 ]
 category: crafting
 research: cryofluid-mixer
