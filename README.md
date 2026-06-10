@@ -26,6 +26,31 @@ This mod requires Mindustry version `158` or higher.
 
 Contributions are welcome! If you have suggestions, bug reports, or would like to contribute code, please check out the [GitHub repository](https://github.com/tiagocunhapereira-br-bootdev/CapStone/) and open an issue or pull request.
 
+## Quick Start
+
+1. Download the latest ZIP from the Releases page.
+2. Open Mindustry.
+3. Go to Mods > Import Mod.
+4. Choose Import File.
+5. Select the downloaded ZIP.
+6. Press OK.
+7. Let Mindustry restart to load the mod.
+
+## Motivation
+
+In vanilla *Mindustry*, Thorium is a critical mid-to-late game resource, yet its logistics are largely restricted to solid transport lines. While core mechanics rely heavily on liquid-based cooling and compounding (such as Cryofluid), Thorium lacks a dedicated fluid counterpart to optimize high-tier energy production and factory cooling.
+
+This mod introduces the **Thorium Mixer** and **Radiofluid** to address the following design and gameplay challenges:
+
+* **Logistical Efficiency:** Transitioning Thorium from solid belts to liquid pipelines to reduce footprint and improve base throughput.
+* **Advanced Thermodynamics:** Providing a high-tier fluid alternative designed to push the boundaries of power generation and cooling efficiency.
+* **Risk vs. Reward Mechanics:** Enhancing the strategic depth of *Mindustry* by introducing a volatile, radioactive fluid that demands precise pipeline management.
+* **Academic Application:** Serving as a Capstone project to demonstrate proficiency in modular game design, asset integration, and balance tuning within a complex, automation-driven RTS ecosystem.
+
+## Usage
+
+Once the mod is loaded, use it in-game to boost your turrets beyond the normal limits.
+
 ## License
 
 This project is not licensed. We appreciate your support!
