@@ -42,10 +42,10 @@ In vanilla *Mindustry*, Thorium is a critical mid-to-late game resource, yet its
 
 This mod introduces the **Thorium Mixer** and **Radiofluid** to address the following design and gameplay challenges:
 
-* **Logistical Efficiency:** Transitioning Thorium from solid belts to liquid pipelines to reduce footprint and improve base throughput.
-* **Advanced Thermodynamics:** Providing a high-tier fluid alternative designed to push the boundaries of power generation and cooling efficiency.
-* **Risk vs. Reward Mechanics:** Enhancing the strategic depth of *Mindustry* by introducing a volatile, radioactive fluid that demands precise pipeline management.
-* **Academic Application:** Serving as a Capstone project to demonstrate proficiency in modular game design, asset integration, and balance tuning within a complex, automation-driven RTS ecosystem.
+**Logistical Efficiency:** Transitioning Thorium from solid belts to liquid pipelines to reduce footprint and improve base throughput.
+**Advanced Thermodynamics:** Providing a high-tier fluid alternative designed to push the boundaries of power generation and cooling efficiency.
+**Risk vs. Reward Mechanics:** Enhancing the strategic depth of *Mindustry* by introducing a volatile, radioactive fluid that demands precise pipeline management.
+**Academic Application:** Serving as a Capstone project to demonstrate proficiency in modular game design, asset integration, and balance tuning within a complex, automation-driven RTS ecosystem.
 
 ## Usage
 
